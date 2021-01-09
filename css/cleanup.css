@@ -19,3 +19,10 @@ div#wall .parent #tag-5.slick.slick {
   background: none;
 }
 
+div#wall div.parent.parent div:last-child div#tag-6 {
+background: none;
+}
+
+
+
+
